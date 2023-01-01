@@ -9,7 +9,7 @@ target/
 .idea/compiler.xml
 .idea/libraries/
 .idea/sonarlint
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -38,3 +38,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
